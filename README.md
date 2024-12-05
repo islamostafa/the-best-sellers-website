@@ -25,6 +25,13 @@ The main objectives of this project were to:
 - HTML5
 - CSS3
 
-## Setup and Installation
+## Project Structure
 
-1. Clone the repository:
+thebestsellerproducts/
+│
+├── index.html
+├── styles/
+│   └── main.css
+├── images/
+│   └── (product images)
+└── README.md
